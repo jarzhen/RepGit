@@ -12,3 +12,8 @@ git branch dev modify
 8888888 modify by test branch
 9999999 modify by master branch
 modify by test branch assert conflict
+
+add new infomation for push github------sha
+add new line
+
+server update 
